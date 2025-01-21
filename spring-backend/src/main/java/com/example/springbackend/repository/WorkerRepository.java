@@ -9,3 +9,4 @@ import com.example.springbackend.model.Worker;
 public interface WorkerRepository extends JpaRepository<Worker, Long> {
 
 }
+  
